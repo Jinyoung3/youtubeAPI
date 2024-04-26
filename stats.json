@@ -1,0 +1,54 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "1Eofus5N8-p7cMxwvhVbE1bbAbI",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "Bk-B_54iSx72j-Ha7HamXb6Vyd8",
+            "id": "UCVGFImKSR987wdDg1ib-QAw",
+            "snippet": {
+                "title": "Cool man ",
+                "description": "",
+                "customUrl": "@coolhae",
+                "publishedAt": "2017-01-11T22:55:47Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Kqvh9pSDuEvTq3x6VNcPUUGrDFNZn_QgK_4h-bXtrQyg-SdP5QD9nH3m_eCTrzbzDwepB-vD5Q=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Kqvh9pSDuEvTq3x6VNcPUUGrDFNZn_QgK_4h-bXtrQyg-SdP5QD9nH3m_eCTrzbzDwepB-vD5Q=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Kqvh9pSDuEvTq3x6VNcPUUGrDFNZn_QgK_4h-bXtrQyg-SdP5QD9nH3m_eCTrzbzDwepB-vD5Q=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Cool man ",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "LL",
+                    "uploads": "UUVGFImKSR987wdDg1ib-QAw"
+                }
+            },
+            "statistics": {
+                "viewCount": "3484",
+                "subscriberCount": "34",
+                "hiddenSubscriberCount": false,
+                "videoCount": "37"
+            }
+        }
+    ]
+}
